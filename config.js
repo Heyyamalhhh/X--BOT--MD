@@ -47,7 +47,7 @@ module.exports = {
 	API: "https://api-aswin-sparky.koyeb.app",
 	AUDIO_DATA: process.env.AUDIO_DATA || "ʟᴀᴍᴀ-ᴡᴀᴇ々;ᝃ🌷／ī.am 々  𝐋𝐚𝐦𝐚 ⥮㍍⭒;https://url.sparky.biz.id/5ftLiA.jpg",
 	AUTO_STATUS_VIEW: toBool(process.env.AUTO_STATUS_VIEW || "true"),
-	BOT_INFO: process.env.BOT_INFO || "ᝃ🌷／ī.am 々  𝐋𝐚𝐦𝐚 ⥮㍍⭒;ʟᴀᴍᴀ-ᴡᴀᴇ々;https://url.sparky.biz.id/5ftLiA.jpg",
+	BOT_INFO: process.env.BOT_INFO || "ᝃ🌷／ī.am 々  𝐋𝐚𝐦𝐚 ⥮㍍⭒;ʟᴀᴍᴀ-ᴡᴀᴇ々;https://url.aswinsparky.qzz.io/fOe3UR.mp4",
 	CALL_BLOCK: toBool(process.env.CALL_BLOCK || "trur"),
 	CALL_BLOCK_MSG: process.env.CALL_BLOCK_MSG || "_Calls are not allowed. Please don’t call again!._",
 	DATABASE_URL,
